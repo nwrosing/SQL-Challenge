@@ -2,7 +2,7 @@
 _By: Nick Rosing_
 
 ## Entity Relationship Diagram
-![ERD](https://github.com/nwrosing/SQL-Challange/blob/master/Images/ERD.PNG)
+![ERD](https://github.com/nwrosing/SQL-Challenge/blob/master/Images/ERD.PNG)
 
 ### Data Engineering
 - Database and Table Creation
