@@ -76,7 +76,7 @@ REFERENCES "titles" ("emp_no");
 ALTER TABLE "salaries" ADD CONSTRAINT "fk_salaries_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
 ```
-
+## Data Analysis
 
 ```
 -- Question 1 (All Employee Data)
@@ -139,3 +139,6 @@ GROUP BY last_name
 ORDER BY "Count of Name" DESC
 ;
 ```
+## Bonus
+
+![AVGSAL](https://github.com/nwrosing/SQL-Challenge/blob/master/Images/avg_salary.png)
